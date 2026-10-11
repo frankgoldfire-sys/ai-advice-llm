@@ -1,0 +1,10 @@
+﻿condition_a,condition_b,only_a_correct,only_b_correct,accuracy_a,accuracy_b,difference_b_minus_a,p_value
+baseline,reanswer_control,1,0,0.875,0.87,-0.0050000000000000044,1.0
+baseline,correct_first,1,7,0.875,0.905,0.030000000000000027,0.0703125
+baseline,wrong_first,7,0,0.875,0.84,-0.03500000000000003,0.015625
+baseline,independent_correct,0,2,0.875,0.885,0.010000000000000009,0.5
+baseline,independent_wrong,2,0,0.875,0.865,-0.010000000000000009,0.5
+wrong_first,independent_wrong,1,6,0.84,0.865,0.025000000000000022,0.125
+correct_first,independent_correct,5,1,0.905,0.885,-0.020000000000000018,0.21875
+reanswer_control,independent_wrong,2,1,0.87,0.865,-0.0050000000000000044,1.0
+reanswer_control,independent_correct,0,3,0.87,0.885,0.015000000000000013,0.25

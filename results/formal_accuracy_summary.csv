@@ -1,0 +1,7 @@
+﻿condition,correct_count,total_count,accuracy
+baseline,175,200,0.875
+reanswer_control,174,200,0.87
+correct_first,181,200,0.905
+wrong_first,168,200,0.84
+independent_correct,177,200,0.885
+independent_wrong,173,200,0.865

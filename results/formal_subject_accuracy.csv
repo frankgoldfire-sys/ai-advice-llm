@@ -1,0 +1,6 @@
+﻿subject,baseline,reanswer_control,correct_first,wrong_first,independent_correct,independent_wrong
+business_ethics,0.825,0.825,0.975,0.775,0.875,0.825
+college_computer_science,0.925,0.9,0.925,0.85,0.925,0.925
+high_school_macroeconomics,0.975,0.975,0.975,0.975,0.975,0.975
+high_school_microeconomics,0.975,0.975,0.975,0.975,0.975,0.975
+professional_law,0.675,0.675,0.675,0.625,0.675,0.625

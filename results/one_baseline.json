@@ -1,0 +1,14 @@
+{
+  "question_id": "business_ethics_01",
+  "condition": "baseline",
+  "requested_model": "deepseek-flash",
+  "returned_model": "deepseek-flash",
+  "system_fingerprint": "aeb56401ca74e127821c4f9126dcb669",
+  "correct_answer": "D",
+  "model_answer": "C",
+  "is_correct": false,
+  "raw_response": "{\"answer\": \"C\"}",
+  "prompt_tokens": 123,
+  "completion_tokens": 6,
+  "total_tokens": 129
+}

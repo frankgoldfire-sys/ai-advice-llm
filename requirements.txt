@@ -1,0 +1,6 @@
+# 需要安装的python库：
+datasets==5.0.1
+matplotlib==3.11.2
+openai==3.19.2
+pandas==3.0.6
+python-dotenv==1.2.3
